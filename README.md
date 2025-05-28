@@ -16,9 +16,9 @@ O framework depende muito de gráficos de radar para representar visualmente as 
 
 O framework possui 4 trilhas diferentes:
 
-* [**Desenvolvedor**](Developer.md): papel também conhecido como programador ou engenheiro de software, requer um nível profundo de especialização técnica
+* [**Desenvolvedor**](Developer.md): função também conhecida como programador ou engenheiro de software, requer um nível profundo de especialização técnica
 
-* [**Líder Técnico**](TechLead.md): papel também conhecido como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção
+* [**Líder Técnico**](TechLead.md): função também conhecida como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção
 
 * [**Technical Program Manager**](TechnicalProgramManager.md): função responsável por coordenar e conduzir à conclusão iniciativas que abrangem múltiplas equipes
 * [**Gerente de Engenharia**](EngineeringManager.md): função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento de carreira e nível de felicidade da equipe
