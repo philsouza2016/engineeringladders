@@ -4,7 +4,7 @@
 
 Se a equipe é pequena e/ou o líder tem muita experiência como Gerente de Engenharia e Tech Lead, a mesma pessoa pode desempenhar ambas as funções. Mas conforme o sistema e a equipe crescem em tamanho e complexidade, pode haver uma oportunidade de ter pessoas diferentes para cada função.
 
-A seguir está uma lista não exaustiva que exemplifica algumas das diferentes responsabilidades de cada função:
+A seguir alguns exemplos de algumas das diferentes responsabilidades de cada função:
 
 | [Tech Lead](TechLead.md) (Sistema) | [Gerente de Engenharia](EngineeringManager.md) (Pessoas)|
 | :--- | :--- |
