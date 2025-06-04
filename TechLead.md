@@ -1,13 +1,13 @@
-# Tech Lead
+# Líder Técnico
 
-Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
+Função também conhecida como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção.
 
-| Level | Senior | Position |
+| Nível | Senior | Posição |
 | :---: | :---: | :---: |
-| 4 | Yes | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
-| 5 | Yes | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
-| 6 | Yes | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
-| 7 | Yes | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
+| 4 | Sim | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
+| 5 | Sim | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
+| 6 | Sim | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
+| 7 | Sim | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
 
 
 ## TL4 - Tech Lead 4
@@ -18,11 +18,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
   <img alt="Tech Lead 4" src="/charts/techlead-4.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **Especializa**: é a pessoa de referência para uma ou mais tecnologias e toma iniciativa para aprender novas
+* **Possui**: possui a operação e monitoramento de produção do sistema e está ciente de seus SLAs
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
+* **Subsistema**: causa impacto em um ou mais subsistemas ou pods da equipe
 
 ## TL5 - Tech Lead 5
 
@@ -32,11 +32,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
   <img alt="Tech Lead 5" src="/charts/techlead-5.png">
 </picture>
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangeliza**: pesquisa, cria provas de conceito e introduz novas tecnologias para a equipe
+* **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Define**: define os processos adequados para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
 ## TL6 - Tech Lead 6
 
@@ -46,11 +46,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
   <img alt="Tech Lead 6" src="/charts/techlead-6.png">
 </picture>
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Domina**: possui conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+* **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Define**: define os processos adequados para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Múltiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TL7 - Tech Lead 7
 
@@ -60,17 +60,17 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
   <img alt="Tech Lead 7" src="/charts/techlead-7.png">
 </picture>
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **Domina**: possui conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+* **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Define**: define os processos adequados para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Empresa**: causa impacto em toda a organização de tecnologia
 
-# Other Pages
+# Outras Páginas
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Introdução**](README.md)
+* [**Desenvolvedor**](Developer.md)
+* [**Gerente de Programa Técnico**](TechnicalProgramManager.md)
+* [**Gerente de Engenharia**](EngineeringManager.md)
+* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Gerenciando Gerentes**](Managing-Managers.md)
