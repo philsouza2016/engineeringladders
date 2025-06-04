@@ -1,16 +1,16 @@
-# Engineering Manager
+# Gerente de Engenharia
 
-Role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team.
+Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento profissional e nível de felicidade da equipe.
 
-| Level | Senior | Position |
+| Nível | Sênior | Posição |
 | :---: | :---: | :---: |
-| 5 | Yes | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Yes | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Yes | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
+| 5 | Yes | [GE5 - Gerente de Engenharia 5](#em5---engineering-manager-5) |
+| 6 | Yes | [GE6 - Gerente de Engenharia 6](#em6---engineering-manager-6) |
+| 7 | Yes | [GE7 - Gerente de Engenharia 7](#em7---engineering-manager-7) |
 
-If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
+Se você tem outros gerentes como subordinados diretos, talvez queira ler a seção [Gerenciando Gerentes](Managing-Managers.md)  pois ela fornece mais informações sobre o aspecto "Gerenciar Pessoas" da função.
 
-## EM5 - Engineering Manager 5
+## GE5 - Gerente de Engenharia 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
@@ -18,13 +18,13 @@ If you have other managers as direct reports, you might want to read the [Managi
   <img alt="Engineering Manager 5" src="/charts/engineeringmanager-5.png">
 </picture>
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangeliza**: pesquisa, cria provas de conceito e introduz novas tecnologias para a equipe
+* **Possui**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+* **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+* **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
+* **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## EM6 - Engineering Manager 6
+## GE6 - Gerente de Engenharia 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
@@ -32,13 +32,13 @@ If you have other managers as direct reports, you might want to read the [Managi
   <img alt="Engineering Manager 6" src="/charts/engineeringmanager-6.png">
 </picture>
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangeliza**: pesquisa, cria provas de conceito e introduz novas tecnologias para a equipe
+* **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
+* **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+* **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## EM7 - Engineering Manager 7
+## GE7 - Gerente de Engenharia 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
@@ -46,17 +46,17 @@ If you have other managers as direct reports, you might want to read the [Managi
   <img alt="Engineering Manager 7" src="/charts/engineeringmanager-7.png">
 </picture>
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Evangeliza**: pesquisa, cria provas de conceito e introduz novas tecnologias para a equipe
+* **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
+* **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+* **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
-# Other Pages
+# Outras Páginas
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
+* [**Introdução**](README.md)
+* [**Desenvolvedor**](Developer.md)
+* [**Líder Técnico**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Líder Técnico vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Gerenciando Gerentes**](Managing-Managers.md)
