@@ -1,9 +1,9 @@
-# Managing Managers
+# Gerenciando Gerentes
 
-## Introduction
+## Introdução
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
-The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
+Quando você chega aos níveis mais altos da carreira de gestão, é provável que alguns dos seus subordinados diretos sejam outros gerentes.
+As ações do gerente têm um impacto maior em suas equipes e, portanto, você precisa definir expectativas de forma diferente.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
@@ -11,81 +11,83 @@ The manager's actions have a bigger impact on their teams and therefore you need
   <img alt="Dashboard" src="/charts/dashboard.png">
 </picture>
 
-How do you assess the managing skills of other managers?
-Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
-In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
+Como você avalia as habilidades de gestão de outros gerentes?
+Gerentes enfrentam forças conflitantes o tempo todo, e uma grande parte do seu trabalho é manter as coisas equilibradas.
+Para definir as expectativas corretas e medir o sucesso do gerente, é importante avaliar quão equilibradas estão as seguintes áreas:
 
 
-## Delivery
+## Entrega
 
-Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
+Gerentes constantemente enfrentam pressão do Negócio para entregar valor rapidamente, enquanto sentem a pressão da equipe para entregar soluções de alta qualidade.
 
-![Delivery](/charts/dashboard-delivery.png)
+![Entrega](/charts/dashboard-delivery.png)
 
-| Business Impact | Technical Excellence |
+| Impacto no Negócio | Excelência Técnica |
 | :--- | :--- |
-| Speed | Quality |
-| Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+| Velocidade | Qualidade |
+| Feedback do Cliente | Manutenibilidade do Código |
+| Custo de Oportunidade | Custo da Dívida Técnica |
 
 
-## Goals
+## Objetivos
 
-Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
+Alinhar os objetivos da equipe com os objetivos individuais é fundamental para garantir um cenário onde a equipe entrega valor para a organização enquanto seus membros progridem em suas carreiras. O gerente deve tentar criar um cenário ganha-ganha onde ambos os lados (equipe e indivíduo) recebem algo em troca.
 
-![Goals](/charts/dashboard-goals.png)
+![Objetivos](/charts/dashboard-goals.png)
 
-| Team | Individuals |
+| Equipe | Indivíduos |
 | :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
-| Group Performance | Individual Performance |
+| Necessidades do Negócio | Foco na Carreira |
+| Expectativas da Equipe | Interesses Pessoais |
+| Performance do Grupo | Performance Individual |
 
 
-## Planning
+## Planejamento
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+Embora o planejamento de curto prazo vs longo prazo seja às vezes visto como um tipo de discussão "negócio vs tecnologia" (veja [Entrega](#delivery)) isso nem sempre é verdade. Em muitos casos, o gerente precisa equilibrar os trade-offs entre uma solução rápida de negócio (ou técnica) e uma de longo prazo. Corrigimos este bug rapidamente ou investimos em uma solução técnica adequada? Criamos um spike descartável rápido ou investimos em uma funcionalidade bem projetada?
 
-![Planning](/charts/dashboard-planning.png)
+![Planejamento](/charts/dashboard-planning.png)
 
-| Short-Term | Long-Term |
+| Curto Prazo | Longo Prazo |
 | :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+| Plano Semanal | Plano Trimestral |
+| Spike | Design Bem Pensado |
+| Resolver Rapidamente | Resolver Adequadamente |
 
 
-## Oversight
+## Supervisão
 
-Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
+Gerentes geralmente têm dificuldade em equilibrar como delegar efetivamente sem perder o controle sobre suas equipes. Manter-se conectado aos detalhes sem interferir é certamente uma das tarefas mais difíceis para um gerente (especialmente para gerentes de gerentes). É importante que os gerentes capacitem a equipe para tomar decisões enquanto ficam por dentro do que está acontecendo.
+
 
 ![Oversight](/charts/dashboard-oversight.png)
 
-| Control | Delegation |
+| Controle | Delegação |
 | :--- | :--- |
-| Micromanaging | Empowerment |
-| Connected to Details | Big Picture |
-| Auditing | Trust |
+| Microgerenciamento | Empoderamento |
+| Conectado aos Detalhes | Visão Geral |
+| Auditoria | Confiança |
 
-## Relationships
+## Relacionamentos
 
-Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
+A maioria dos gerentes se destaca em construir relacionamentos com seus subordinados diretos (gerenciar para baixo) e com seu supervisor (gerenciar para cima), mas tendem a subestimar seus relacionamentos com o resto da organização (gerenciar lateralmente). A falta de foco em relacionamentos horizontais adiciona risco a iniciativas entre equipes e reduz a visibilidade do gerente sobre o impacto da equipe.
 
 ![Relationships](/charts/dashboard-relationships.png)
 
-| Vertical (Managing Down / Up) | Horizontal (Managing Across) |
+| VVertical (Gerenciar Para Baixo / Para Cima) | Horizontal (Gerenciar Lateralmente) |
 | :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+| Supervisores | Stakeholders |
+| Subordinados Diretos | Pares / Outras Equipes |
+| Subordinados Indiretos | Usuários
+ |
 
-## Conclusion
+## Conclusão
 
-Assessing managers requires a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
+Avaliar gerentes requer uma perspectiva ligeiramente diferente, suas ações têm um impacto maior em suas equipes e, portanto, eles são responsáveis por manter as coisas equilibradas.
 
-Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
+Gerentes devem equilibrar cada área — entrega, objetivos, planejamento, supervisão e relacionamentos — de uma forma que seja sustentável ao longo do tempo. Nem todas as áreas podem precisar ser equilibradas da mesma forma; a senioridade da equipe, cultura da empresa e contexto de negócio podem mover a seta mais para um lado ou outro, a área verde é uma faixa e não um valor único. Dito isso, é importante evitar chegar muito perto de qualquer um dos extremos.
 
-In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
+Em resumo, entender como cada gerente está performando em cada área é uma boa maneira de avaliar sua performance e, portanto, uma grande oportunidade para ter conversas significativas sobre carreira com eles.
 
 # Other Pages
 
@@ -94,4 +96,13 @@ In summary, understanding how each manager is performing on every area is a good
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+
+
+# Outras Páginas
+
+* [**Introdução**](README.md)
+* [**Desenvolvedor**](Developer.md)
+* [**Tech Lead**](TechLead.md)
+* [**Gerente de Programa Técnico**](TechnicalProgramManager.md)
+* [**Gerente de Engenharia**](EngineeringManager.md)
+* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
