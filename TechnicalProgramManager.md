@@ -1,8 +1,8 @@
 # Technical Program Manager
 
-Role responsible for coordinating and driving to completion initiatives that span multiple teams.
+Função responsável por coordenar e conduzir até a conclusão iniciativas que abrangem múltiplas equipes.
 
-| Level | Senior | Position |
+| Nível | Sênior | Posição |
 | :---: | :---: | :---: |
 | 4 | Yes | [TPM4 - Technical Program Manager 4](#tpm4---technical-program-manager-4) |
 | 5 | Yes | [TPM5 - Technical Program Manager 5](#tpm5---technical-program-manager-5) |
@@ -18,11 +18,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 4" src="/charts/technicalprogrammanager-4.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Especializa**: é a pessoa de referência para uma ou mais tecnologias e toma iniciativa para aprender novas
+* **Projeta**: projeta e implementa funcionalidades de médio a grande porte enquanto reduz a dívida técnica do sistema
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
+* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TPM5 - Technical Program Manager 5
 
@@ -32,11 +32,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 5" src="/charts/technicalprogrammanager-5.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Especializa**: é a pessoa de referência para uma ou mais tecnologias e toma iniciativa para aprender novas
+* **Projeta**: projeta e implementa funcionalidades de médio a grande porte enquanto reduz a dívida técnica do sistema
+* **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
+* **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TPM6 - Technical Program Manager 6
 
@@ -46,11 +46,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 6" src="/charts/technicalprogrammanager-6.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **Especializa**: é a pessoa de referência para uma ou mais tecnologias e toma iniciativa para aprender novas
+* **Possui**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+* **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+* **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Empresa**: causa impacto em toda a organização de tecnologia
 
 ## TPM7 - Technical Program Manager 7
 
@@ -60,17 +60,17 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 7" src="/charts/technicalprogrammanager-7.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Community**: makes an impact on the tech community
+* **Especializa**: é a pessoa de referência para uma ou mais tecnologias e toma iniciativa para aprender novas
+* **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
+* **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+* **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
+* **Comunidade**: causa impacto na comunidade técnica
 
-# Other Pages
+# Outras Páginas
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
+* [**Introdução**](README.md)
+* [**Desenvolvedor**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Gerente de Engenharia**](EngineeringManager.md)
+* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Gerenciando Gerentes**](Managing-Managers.md)
