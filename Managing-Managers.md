@@ -89,15 +89,6 @@ Gerentes devem equilibrar cada área — entrega, objetivos, planejamento, super
 
 Em resumo, entender como cada gerente está performando em cada área é uma boa maneira de avaliar sua performance e, portanto, uma grande oportunidade para ter conversas significativas sobre carreira com eles.
 
-# Other Pages
-
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-
-
 # Outras Páginas
 
 * [**Introdução**](README.md)
